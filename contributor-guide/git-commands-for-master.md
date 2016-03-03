@@ -22,7 +22,10 @@ Follow the steps in this article to create a local working branch on your comput
 4. Create a fresh local working branch derived from the master branch:
 
         git pull upstream master:<working branch>
-
+   
+   For example:
+   
+        git pull upstream master:azure-content-pr
 
 5. Move into the new working branch:
 
